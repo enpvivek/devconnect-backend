@@ -1,0 +1,26 @@
+{
+  "name": "devconnect-backend",
+  "version": "1.0.0",
+  "description": "Backend for dev connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "MERN",
+    "MongoDB",
+    "Mongoose",
+    "bcrypt",
+    "jwt"
+  ],
+  "author": "Vivek Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.6",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3"
+  }
+}
