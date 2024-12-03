@@ -12,5 +12,7 @@ app.use("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log("Running on port", port);
+  console.log("Server running on port", port);
 });
+
+// hi
